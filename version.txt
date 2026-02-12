@@ -1,4 +1,4 @@
 [nexus]
-version = "3.4.0"
-changelog = "New features and bug fixes"
+version = "3.4.1"
+changelog = "New features and bug fixes - fix of the blade ball - auto parry"
 mandatory = false
