@@ -1,4 +1,4 @@
 [nexus]
-version = "3.4.2"
-changelog = "New features and bug fixes. Added Operation One, ESP intensity silder"
+version = "3.4.3"
+changelog = "New features and bug fixes. Offset update - FFlags"
 mandatory = false
