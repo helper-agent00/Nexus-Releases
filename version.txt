@@ -1,4 +1,4 @@
 [nexus]
-version = "3.4.1"
-changelog = "New features and bug fixes - fix of the blade ball - auto parry"
+version = "3.4.2"
+changelog = "New features and bug fixes. Added Operation One, ESP intensity silder"
 mandatory = false
