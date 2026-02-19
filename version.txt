@@ -1,4 +1,4 @@
 [nexus]
-version = "3.4.3"
+version = "3.4.4"
 changelog = "New features and bug fixes. Offset update - FFlags"
 mandatory = false
