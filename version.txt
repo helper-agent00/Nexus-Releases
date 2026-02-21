@@ -1,4 +1,4 @@
 [nexus]
-version = "3.4.4"
-changelog = "New features and bug fixes. Offset update - FFlags"
+version = "3.5.0"
+changelog = "New features and bug fixes. Optimised all main features - ESP, AIM, Movement, Redners, Bladeball reaction (autoparry), fixed camera-aim"
 mandatory = false
